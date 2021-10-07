@@ -1,5 +1,19 @@
 {
   "swfs": [
+        {
+      "location": "swfs/00253.swf",
+      "title": "homestuck 253",
+      "author": "Tom Fulp and Dan Paladin",
+      "authorLink": "https://www.newgrounds.com",
+      "type": "Game"
+    },
+        {
+      "location": "swfs/00769.swf",
+      "title": "homestuck 769",
+      "author": "Tom Fulp and Dan Paladin",
+      "authorLink": "https://www.newgrounds.com",
+      "type": "Game"
+    },
     {
       "location": "swfs/alien_hominid.swf",
       "title": "Alien Hominid",
