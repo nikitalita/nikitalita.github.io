@@ -40,9 +40,12 @@
         </div>
         <div id="main">
             <div id="overlay" class="hidden"></div>
-            <div id="input" class="input"></div>
             <div id="prompt">Select a demo or drag an SWF</div>
         </div>
         <script src="index.js"></script>
+        <script>var input = new CanvasInput({
+            canvas: document.getElementById('ruffle_canvas')
+          });
+      </script>
     </body>
 </html>
